@@ -8,6 +8,8 @@ const Navber = () => {
         <Link to="/about">About</Link>
         <Link to="/contact">Contact us</Link>
         <Link to="/blog">Blog</Link>
+        <Link to="/users">Users</Link>
+        <Link to="/posts">Posts</Link>
       </ul>
     </div>
   );
